@@ -14,6 +14,7 @@ Kynning á Github.io forsíðu
 
 ---
 
-<h4>ps. það er hægt að blanda saman <strong>html tögum</strong> við Markdown rithátt hér á Github</h4>
+<h4 style="color:orange">ps. það er hægt að blanda saman html tögum við Markdown rithátt hér á Github</h4>
+
 
 
