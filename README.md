@@ -14,7 +14,7 @@ Kynning á Github.io forsíðu
 
 ---
 
-<h4 style="text-transform:uppercase">ps. það er hægt að blanda saman html tögum við Markdown rithátt hér á Github</h4>
+<h4 style="text-transform: uppercase;">ps. það er hægt að blanda saman html tögum við Markdown rithátt hér á Github</h4>
 
 
 
