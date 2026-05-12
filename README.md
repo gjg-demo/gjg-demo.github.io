@@ -3,8 +3,6 @@ Kynning á Github.io forsíðu
 
 ## Halló 👋
 
-
-
 - 🔭 `gjg-demo/README.md`  er forsíðan á ✨ **gjg-demo.github.io** ✨ 
 - 🌱 [**Markdown**](https://is.wikipedia.org/wiki/Markdown) er textaforsnið sem github vefforritið notar
 - 👯 [**Github Markdown Cheatsheet**](https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet)
@@ -13,5 +11,9 @@ Kynning á Github.io forsíðu
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ... -->
+
+---
+
+<h4>ps. það er hægt að blanda saman <strong>html tögum</strong> við Markdown rithátt hér á Github</h4>
 
 
