@@ -3,7 +3,8 @@ Kynning á Github.io forsíðu
 
 ## Halló 👋
 
-- 🔭 `README.md`  er forsíðan á ✨ **gjg-demo.github.io** ✨ 
+- 🔭 `README.md`  er forsíðan á ✨ **gjg-demo.github.io** ✨
+  - ⚡ [gjg-demo.github.io](https://gjg-demo.github.io/)
 - 🌱 [**Markdown**](https://is.wikipedia.org/wiki/Markdown) er textaforsnið sem github vefforritið notar
 - 👯 [**Github Markdown Cheatsheet**](https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet)
 - ⚡ [Lokaverkefni nemenda í VEFÞ1VG05AU](https://vefgrunnur.github.io/synidaemi/)
